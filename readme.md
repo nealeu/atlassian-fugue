@@ -1,3 +1,7 @@
+# Please see Bitbucket repository
+
+Please note, this project is now entirely managed on Bitbucket at https://bitbucket.org/atlassian/fugue/.
+
 # fugue
 
 ## Functional Extensions
